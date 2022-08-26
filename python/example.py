@@ -1,3 +1,8 @@
+#
+#	Example for how to consume the Consibio Cloud REST API written Python
+#	The examples are intentionally overly verbose to allow easy reading and copy-paste actions
+#
+
 import requests
 import json
 import time
