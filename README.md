@@ -3,7 +3,7 @@ This repository contains documentation and code examples for Consibio Clouds RES
 The API is accessible for authorized users at [https://cloud.consibio.com/rest](https://cloud.consibio.com/rest)
 
 Don't have an account yet? Sign up at [https://cloud.consibio.com](https://cloud.consibio.com).
-More detailed documentation and description of terminology and used concepts can be found in [Consibio Docs](https://docs.consibio.com/rest-api/).
+More detailed documentation, description of terminology and used concepts can be found in [Consibio Docs](https://docs.consibio.com/rest-api/).
 
 
 ## Endpoints
