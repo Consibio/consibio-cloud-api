@@ -1,5 +1,5 @@
 //
-//	Example for how to consume the Consibio Cloud REST API written Python
+//	Example for how to consume the Consibio Cloud REST API written node js
 //	The examples are intentionally overly verbose to allow easy reading and copy-paste actions
 //
 
