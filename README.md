@@ -14,8 +14,8 @@ More detailed documentation, description of terminology and used concepts can be
 | [/list_projects](https://cloud.consibio.com/rest/list_projects) | GET | None | List projects for given user. |
 | [/list_devices_in_project](https://cloud.consibio.com/rest/list_devices_in_project) | GET | Project ID: <br>`?project_id=<project_id>` | List devices for a given project ID. |
 | [/list_elements_in_project	](https://cloud.consibio.com/rest/list_elements_in_project) | GET | Project ID: <br>`?project_id=<project_id>` | List all elements in a project with given ID. |
-| [/get_element_value](https://cloud.consibio.com/rest/get_element_value) | GET | Element ID: <br>`?element_id=<element_id>` | Get the current value of an element with given ID. |
-| [/get_datalog_for_element](https://cloud.consibio.com/rest/get_datalog_for_element) | GET | Element ID, Project ID, From Time, To Time, Interval: <br>`?element_id=<element_id>?project_id=<project_id>?from_time=<unix_timestamp>?to_time=<unix_timestamp>?interval=<seconds>` | Get data from the datalog associated with a given element ID in a project with given ID. |
+| [/get_element_value](https://cloud.consibio.com/rest/get_element_value) | GET | Element ID, Project ID: <br>`?project_id=<project_id>&element_id=<element_id>` | Get the current value of an element with given ID. |
+| [/get_datalog_for_element](https://cloud.consibio.com/rest/get_datalog_for_element) | GET | Element ID, Project ID, From Time, To Time, Interval: <br>`?project_id=<project_id>&element_id=<element_id>&from_time=<unix_timestamp>&to_time=<unix_timestamp>&interval=<seconds>` | Get data from the datalog associated with a given element ID in a project with given ID. |
 
 ## Examples
 We have prepared some basic examples on how to consume the Consibio Cloud REST API in popular languages. 
