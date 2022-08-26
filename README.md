@@ -20,7 +20,7 @@ More detailed documentation, description of terminology and used concepts can be
 ## Examples
 We have prepared some basic examples on how to consume the Consibio Cloud REST API in popular languages. 
 
-- [Javascript / Node.js](./javascript/example.js)
+- [Node.js (Javascript)](./node/example.js)
 - [Python](./python/example.py)
 - [PHP](./php/example.js)
 

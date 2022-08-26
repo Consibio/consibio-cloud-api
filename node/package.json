@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Example code for Consibio Cloud REST API",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Consibio/consibio-cloud-api.git"
+  },
+  "author": "Johan Egsgaard Thomsen, Consibio",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Consibio/consibio-cloud-api/issues"
+  },
+  "homepage": "https://github.com/Consibio/consibio-cloud-api#readme",
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  }
+}
